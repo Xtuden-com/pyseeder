@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.17.3
 LABEL authors "Darknet Villain <supervillain@riseup.net>"
 
 ENV PYSEEDER_HOME="/home/pyseeder"
