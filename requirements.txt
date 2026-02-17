@@ -1,2 +1,2 @@
-cryptography>=1.4
+cryptography>=46.0.5
 requests
